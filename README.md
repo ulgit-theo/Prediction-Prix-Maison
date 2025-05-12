@@ -65,8 +65,8 @@ prix = model.predict([[valeur1, valeur2, ..., valeurN]])
 
 **Cloner le projet**  
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
-cd nom-du-repo
+git clone https://github.com/ulgit-theo/Prediction-Prix-Maison.git
+cd Prediction-Prix-Maison
 ```
 
 
